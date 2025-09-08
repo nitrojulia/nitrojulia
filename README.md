@@ -1,11 +1,11 @@
 # 👋 ¡Hola! Soy Julià Soler
 
-🚀 Emprendedor & Full Stack Developer con +15 años de experiencia en desarrollo de software y liderazgo técnico.
+🚀 Emprendedor & Full Stack Developer más de una década de experiencia en desarrollo de software y liderazgo técnico.
 
 ### 💼 Experiencia Destacada
 
 - Actualmente **Chief Technology Officer** - AlexPhone SL
-- **Cofundador** - Consultor Independiente (Involve Energy)
+- **Cofundador** - Involve Energy
 - **Frontend/Fullstack Developer** - Múltiples proyectos
 
 ### 🚀 Proyectos destacados en los que he trabajado (o estoy trabajo)
