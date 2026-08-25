@@ -5,24 +5,25 @@
 ### 💼 Experiencia Destacada
 
 - Actualmente **Chief Technology Officer** - AlexPhone SL
-- **Cofundador** - Involve Energy
+- **Cofundador** - Involve Energy & TechCup
 - **Frontend/Fullstack Developer** - Múltiples proyectos
 
 ### 🚀 Proyectos destacados en los que he trabajado (o estoy trabajo)
 
 |   |   |
 |---|---|
-| <img src="https://alexphone.es/favicon.ico" width="16" height="16"> | [alexphone.es](https://alexphone.es) |
+| <img src="https://www.alexphone.es/favicon.ico" width="16" height="16"> | [alexphone.es](https://alexphone.es) |
 | <img src="https://involve.energy/favicon.webp" width="16" height="16"> | [involve.energy](https://involve.energy) |
 | <img src="https://tcup.dev/favicon.ico" width="16" height="16"> | [tcup.dev](https://tcup.dev) |
+| <img src="https://app.vilboxtraining.com/favicon.ico" width="16" height="16"> | [app.vilboxtraining.com](https://app.vilboxtraining.com) |
 | <img src="https://peluqueriaterram.com/favicon.ico" width="16" height="16"> | [peluqueriaterram.com](https://peluqueriaterram.com) |
-| <img src="https://mapit.me/wp-content/uploads/2024/05/cropped-mapit_icon-180x180.png" width="16" height="16"> | [mapit.me](https://mapit.me) |
 | <img src="https://tous.com/favicon.ico" width="16" height="16"> | [tous.com](https://tous.com) |
 | <img src="https://grunber.com/favicon.ico" width="16" height="16"> | [grunber.com](https://grunber.com) |
+| <img src="https://mapit.me/wp-content/uploads/2024/05/cropped-mapit_icon-180x180.png" width="16" height="16"> | [mapit.me](https://mapit.me) |
 
 ### 📫 Contacto
 💼 [LinkedIn](https://www.linkedin.com/in/juliasoler/)  
-📧 jsoler@tcup.dev
+📧 jsoler@tcup.dev / jsoler@involve.energy / jsoler@alexphone.es
 
 ---
 
