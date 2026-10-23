@@ -12,8 +12,9 @@
 
 |   |   |
 |---|---|
-| <img src="https://www.alexphone.es/favicon.ico" width="16" height="16"> | [alexphone.es](https://alexphone.es) |
+| <img src="https://www.alexphone.com/favicon.ico" width="16" height="16"> | [alexphone.com](https://alexphone.com) |
 | <img src="https://involve.energy/favicon.webp" width="16" height="16"> | [involve.energy](https://involve.energy) |
+| <img src="https://www.brewkan.com/favicon.svg" width="16" height="16"> | [brewkan.com](https://www.brewkan.com) |
 | <img src="https://tcup.dev/favicon.ico" width="16" height="16"> | [tcup.dev](https://tcup.dev) |
 | <img src="https://app.vilboxtraining.com/favicon.ico" width="16" height="16"> | [app.vilboxtraining.com](https://app.vilboxtraining.com) |
 | <img src="https://peluqueriaterram.com/favicon.ico" width="16" height="16"> | [peluqueriaterram.com](https://peluqueriaterram.com) |
@@ -49,6 +50,7 @@
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain-dot-com&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Brewkan](https://img.shields.io/badge/Brewkan-334155?style=for-the-badge)
 
 
 *Transformando ideas en soluciones digitales ⚡* 
