@@ -12,7 +12,7 @@
 
 |   |   |
 |---|---|
-| <img src="https://www.alexphone.es/favicon.ico" width="16" height="16"> | [alexphone.es](https://alexphone.es) |
+| <img src="https://www.alexphone.com/favicon.ico" width="16" height="16"> | [alexphone.com](https://alexphone.com) |
 | <img src="https://involve.energy/favicon.webp" width="16" height="16"> | [involve.energy](https://involve.energy) |
 | <img src="https://www.brewkan.com/favicon.ico" width="16" height="16"> | [brewkan.com](https://www.brewkan.com) |
 | <img src="https://tcup.dev/favicon.ico" width="16" height="16"> | [tcup.dev](https://tcup.dev) |
